@@ -214,16 +214,13 @@ A real-time video analytics platform integrating vehicle detection, ANPR, traffi
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwertyz15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/AI%20Systems-Production%20Ready-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Real%20Time-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-RAG%20%7C%20Agents-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Redis%20%7C%20Celery-EF4444?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=qwertyz15&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyz15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+I build production-grade AI systems, real-time video analytics platforms, LLM-powered applications, and scalable backend services.
 
 ---
 
