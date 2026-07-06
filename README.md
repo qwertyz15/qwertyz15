@@ -140,12 +140,20 @@ I am a **Senior Software Engineer** with **5+ years of experience** designing an
 
 ### Core Architecture Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=D4AF37" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=semanticweb&logoColor=D4AF37" alt="RAG"/>
-  <img src="https://img.shields.io/badge/LLM%20Agents-0D1117?style=for-the-badge&logo=dependabot&logoColor=D4AF37" alt="LLM Agents"/>
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/NVIDIA%20Triton-0D1117?style=for-the-badge&logo=nvidia&logoColor=D4AF37" alt="NVIDIA Triton"/>
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square&logo=databricks&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM%20Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-2563EB?style=flat-square&logo=elastic&logoColor=white" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Triton"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
