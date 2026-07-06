@@ -4,9 +4,18 @@
 <h1>Fahim Shahriar</h1>
 <h3>Senior Software Engineer · AI Systems · Computer Vision · LLM Infrastructure</h3>
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:D4AF37&height=230&section=header&text=Fahim%20Shahriar&fontSize=56&fontColor=F5D76E&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLM%20Infrastructure&descAlignY=58&descSize=16&descColor=FFFFFF)
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:D4AF37&height=230&section=header&text=Fahim%20Shahriar&fontSize=56&fontColor=F5D76E&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLM%20Infrastructure&descAlignY=58&descSize=16&descColor=FFFFFF" 
+  width="100%" 
+  alt="Header Banner"
+/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Production-grade+AI+systems;Real-time+video+analytics;LLM+agents+and+RAG+pipelines;Computer+vision+at+scale)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Production-grade+AI+systems;Real-time+video+analytics;LLM+agents+and+RAG+pipelines;Computer+vision+at+scale" 
+    alt="Typing SVG"
+  />
+</a>
 
 <br/>
 
@@ -25,7 +34,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=qwertyz15&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" alt="Profile views"/>
+<img 
+  src="https://komarev.com/ghpvc/?username=qwertyz15&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" 
+  alt="Profile views"
+/>
 
 </div>
 
@@ -105,22 +117,36 @@ I am a **Senior Software Engineer** with **5+ years of experience** designing an
 
 ## Architecture Focus
 
-```mermaid
-flowchart LR
-    A[Video Streams] --> B[Detection and Tracking]
-    B --> C[Metadata Extraction]
-    C --> D[Vector Search and RAG]
-    D --> E[Natural-language Event Query]
-    E --> F[Operational Intelligence]
+> Production-oriented AI architecture across computer vision, retrieval systems, agent workflows, and scalable backend services.
 
-    G[Documents and APIs] --> H[Ingestion Pipeline]
-    H --> I[Chunking and Embeddings]
-    I --> D
+| Layer | Core Components | Engineering Responsibility | Business Output |
+|---|---|---|---|
+| **Vision Intelligence** | Video streams, object detection, tracking, ANPR, re-identification | Build real-time visual pipelines for detection, motion analysis, event extraction, and multi-camera intelligence | Searchable video events and operational intelligence |
+| **LLM and Retrieval** | Documents, APIs, chunking, embeddings, vector search, RAG | Design grounded retrieval pipelines for semantic search, document intelligence, and agentic workflows | Accurate knowledge retrieval and natural-language interaction |
+| **Production Runtime** | FastAPI, Redis, Celery, PostgreSQL, MongoDB, NVIDIA Triton | Deploy scalable APIs, async processing, model serving, metadata storage, and monitoring-ready services | Reliable production-grade AI systems |
 
-    J[FastAPI Services] --> K[Redis and Celery]
-    K --> L[PostgreSQL or MongoDB]
-    L --> F
-```
+<br/>
+
+### System Delivery Pipeline
+
+| Input | Processing | Intelligence Layer | Delivery |
+|---|---|---|---|
+| Video streams | Detection and tracking | Event search | Dashboards |
+| Documents | Chunking and embeddings | RAG pipelines | AI support agents |
+| Business APIs | Async jobs and tool calls | Agent workflows | Workflow automation |
+| Model outputs | Metadata extraction | Inference services | Operational insights |
+
+<br/>
+
+### Core Architecture Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=D4AF37" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=semanticweb&logoColor=D4AF37" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLM%20Agents-0D1117?style=for-the-badge&logo=dependabot&logoColor=D4AF37" alt="LLM Agents"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=D4AF37" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Triton-0D1117?style=for-the-badge&logo=nvidia&logoColor=D4AF37" alt="NVIDIA Triton"/>
+</p>
 
 ---
 
@@ -298,15 +324,23 @@ Real-time video analytics platform unifying vehicle detection, ANPR, traffic ana
 
 > Build AI systems that are useful, observable, scalable, and aligned with real business workflows.
 
-```mermaid
-flowchart TD
-    A[Problem Definition] --> B[Data and System Assessment]
-    B --> C[Model or Agent Prototype]
-    C --> D[Evaluation and Benchmarking]
-    D --> E[API and Workflow Integration]
-    E --> F[Production Deployment]
-    F --> G[Monitoring and Continuous Improvement]
-```
+| Stage | Focus Area | Execution Logic | Output |
+|---:|---|---|---|
+| **01** | **Problem Definition** | Convert business requirements into measurable AI, ML, or automation objectives | Clear scope, constraints, and success metrics |
+| **02** | **Data and System Assessment** | Review data quality, latency requirements, integration boundaries, and deployment risks | Feasibility map and architecture baseline |
+| **03** | **Prototype Development** | Build model, agent, RAG, or backend prototypes with practical evaluation loops | Working proof of concept |
+| **04** | **Evaluation and Benchmarking** | Test accuracy, latency, reliability, retrieval quality, and operational edge cases | Validated performance benchmark |
+| **05** | **API and Workflow Integration** | Connect intelligence layers with product workflows, dashboards, and external services | Production-ready integration layer |
+| **06** | **Deployment and Monitoring** | Deploy with logging, queue monitoring, fallback handling, and continuous improvement | Scalable operational AI system |
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Useful-Business%20aligned-D4AF37?style=for-the-badge&labelColor=0D1117" alt="Useful"/>
+  <img src="https://img.shields.io/badge/Observable-Logs%20and%20metrics-D4AF37?style=for-the-badge&labelColor=0D1117" alt="Observable"/>
+  <img src="https://img.shields.io/badge/Scalable-Async%20ready-D4AF37?style=for-the-badge&labelColor=0D1117" alt="Scalable"/>
+  <img src="https://img.shields.io/badge/Grounded-RAG%20aware-D4AF37?style=for-the-badge&labelColor=0D1117" alt="Grounded"/>
+</p>
 
 ---
 
@@ -331,6 +365,10 @@ I am open to technical discussions, AI engineering collaborations, and productio
 
 <br/><br/>
 
-![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1B1F3B,100:0D1117&height=110&section=footer)
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1B1F3B,100:0D1117&height=110&section=footer" 
+  width="100%" 
+  alt="Footer Banner"
+/>
 
 </div>
