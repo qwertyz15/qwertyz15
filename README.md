@@ -1,129 +1,126 @@
-<h1 align="center">Hi, I'm Fahim Shahriar</h1>
+<div align="center">
 
-<h3 align="center">
-Senior Software Engineer | AI Systems | Computer Vision | LLM Applications
-</h3>
+<!-- Stable text fallback: even if the banner image fails, this heading still renders on GitHub -->
+<h1>Fahim Shahriar</h1>
+<h3>Senior Software Engineer · AI Systems · Computer Vision · LLM Infrastructure</h3>
 
-<p align="center">
-Building scalable AI systems, real-time video analytics platforms, intelligent automation workflows, and production-ready AI infrastructure.
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:D4AF37&height=230&section=header&text=Fahim%20Shahriar&fontSize=56&fontColor=F5D76E&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLM%20Infrastructure&descAlignY=58&descSize=16&descColor=FFFFFF)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=850&lines=Production-grade+AI+systems;Real-time+video+analytics;LLM+agents+and+RAG+pipelines;Computer+vision+at+scale)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://github.com/qwertyz15">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/qwertyz15">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://fahim-shahriar.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio"/>
+</a>
+<a href="mailto:imnirobs15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=qwertyz15&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
+
+---
+
+## Executive Profile
+
+I am a **Senior Software Engineer** with **5+ years of experience** designing and deploying scalable AI systems. My work focuses on converting research-grade machine learning into production-ready platforms across **computer vision**, **real-time video analytics**, **LLM agents**, and **retrieval-augmented generation**.
+
+<table>
+  <tr>
+    <td><b>Current Role</b></td>
+    <td>Senior Software Engineer at TigerIT Bangladesh Ltd.</td>
+  </tr>
+  <tr>
+    <td><b>Core Focus</b></td>
+    <td>Computer vision, video intelligence, RAG systems, agentic AI, and scalable backend services</td>
+  </tr>
+  <tr>
+    <td><b>Engineering Edge</b></td>
+    <td>FastAPI, Redis, Celery, PostgreSQL, NVIDIA Triton, ONNX, TensorRT, Docker, and cloud deployment</td>
+  </tr>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Dhaka, Bangladesh</td>
+  </tr>
+</table>
+
+---
+
+## Strategic Engineering Stack
+
+### AI, ML, and Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square&logo=target&logoColor=F5D76E" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/ANPR-1B1F3B?style=flat-square&logo=opencv&logoColor=D4AF37" alt="ANPR"/>
+  <img src="https://img.shields.io/badge/Object_Tracking-1B1F3B?style=flat-square&logo=opencv&logoColor=D4AF37" alt="Object Tracking"/>
 </p>
 
-<p align="center">
-  <a href="https://fahim-shahriar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/qwertyz15">
-    <img src="https://img.shields.io/badge/GitHub-qwertyz15-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/qwertyz15">
-    <img src="https://img.shields.io/badge/LinkedIn-qwertyz15-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:imnirobs15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+### LLM, Agents, and Retrieval
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=graphql&logoColor=D4AF37" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangSmith-111827?style=flat-square&logo=testinglibrary&logoColor=D4AF37" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square&logo=semanticweb&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Vector_Search-2563EB?style=flat-square&logo=databricks&logoColor=white" alt="Vector Search"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logo=database&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Qdrant-B83280?style=flat-square&logo=database&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/MCP-0F172A?style=flat-square&logo=protocols-dot-io&logoColor=D4AF37" alt="MCP"/>
+</p>
+
+### Backend, Data, and Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" alt="AWS EC2"/>
 </p>
 
 ---
 
-## About Me
+## Architecture Focus
 
-I am a Senior Software Engineer with 5+ years of professional experience designing, developing, and deploying scalable AI systems and production-grade software solutions.
+```mermaid
+flowchart LR
+    A[Video Streams] --> B[Detection and Tracking]
+    B --> C[Metadata Extraction]
+    C --> D[Vector Search and RAG]
+    D --> E[Natural-language Event Query]
+    E --> F[Operational Intelligence]
 
-My work focuses on real-time video analytics, computer vision, LLM-powered applications, retrieval-augmented generation, backend architecture, and high-throughput AI infrastructure. I enjoy building reliable systems that connect machine learning research with practical, business-ready products.
+    G[Documents and APIs] --> H[Ingestion Pipeline]
+    H --> I[Chunking and Embeddings]
+    I --> D
 
----
-
-## Core Expertise
-
-- Real-Time Video Analytics
-- Computer Vision and Deep Learning
-- LLM Applications and RAG Systems
-- AI Agents and Tool-Calling Workflows
-- Backend System Architecture
-- High-Throughput AI Pipelines
-- MLOps and Model Deployment
-- Scalable API and Data Infrastructure
-
----
-
-## Tech Stack
-
-### Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### LLMs, Agents and Retrieval
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VLMs-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-2E7D32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangSmith-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ChromaDB-FFDE59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-</p>
-
-### Backend and Databases
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### Machine Learning, Computer Vision and Deep Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CNN-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RNN-475569?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ViT-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GAN-B91C1C?style=for-the-badge" />
-</p>
-
-### MLOps and Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Data Processing
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge" />
-</p>
+    J[FastAPI Services] --> K[Redis and Celery]
+    K --> L[PostgreSQL or MongoDB]
+    L --> F
+```
 
 ---
 
@@ -132,26 +129,25 @@ My work focuses on real-time video analytics, computer vision, LLM-powered appli
 ### Senior Software Engineer — TigerIT Bangladesh Ltd.
 **July 2024 – Present**
 
-- Built scalable backend services using FastAPI, Redis, Celery, and PostgreSQL for high-throughput AI workflows.
-- Developed real-time video analytics systems for vehicle detection, classification, tracking, motion detection, and ANPR.
-- Integrated vision-language understanding and RAG for natural-language querying of video events and temporal patterns.
-- Worked with YOLO models served through NVIDIA Triton Inference Server.
-- Designed asynchronous and parallel processing workflows across multiple video streams.
-- Contributed to facial recognition and anti-spoofing systems.
+- Engineered a **Visual Event Query Assistant** combining vision-language understanding with RAG, enabling natural-language search over events, objects, and temporal patterns in video streams.
+- Architected asynchronous Python backend services using **FastAPI**, **Redis**, **Celery**, and **PostgreSQL** for high-throughput AI workflows.
+- Built real-time video analytics systems for vehicle detection, classification, tracking, motion detection, and ANPR.
+- Served YOLO-based models through **NVIDIA Triton Inference Server** for scalable, low-latency inference.
+- Contributed to facial recognition and anti-spoofing systems, including dataset curation, model pipeline design, and secure biometric API integration.
 
 ### Machine Learning Engineer — Lynkeus.ai
 **July 2022 – June 2024**
 
-- Designed and deployed real-time analytics systems for ANPR, parking detection, traffic flow analysis, pedestrian tracking, and security monitoring.
-- Trained and optimized YOLO-family models and deployed them with ONNX, TensorRT, and NVIDIA Triton.
-- Built multi-camera pedestrian tracking and re-identification workflows.
-- Developed fight and violence detection models for real-time surveillance environments.
+- Designed and deployed real-time video analytics for ANPR, parking space detection, traffic flow analysis, pedestrian tracking, and security monitoring.
+- Trained and optimized YOLO-family detection models, converting them to **ONNX** and **TensorRT** for production inference.
+- Built multi-camera pedestrian tracking and re-identification workflows with attribute recognition.
+- Developed real-time fight and violence detection models for security applications.
 
 ### Software Engineer — Sigmind.ai
 **June 2021 – June 2022**
 
-- Developed API services for face recognition, face verification, and NID OCR systems.
-- Built security and vehicle detection systems using QT-C++, OpenCV, and TensorFlow.
+- Developed API services for face recognition, face verification, and NID OCR for identity verification workflows.
+- Implemented embedded security and vehicle detection systems using **QT-C++**, **OpenCV**, and **TensorFlow**.
 - Optimized computer vision algorithms for resource-constrained environments.
 
 ---
@@ -160,115 +156,155 @@ My work focuses on real-time video analytics, computer vision, LLM-powered appli
 
 ### AI Support Agent Platform
 
-A beta SaaS platform for creating deployable AI support agents trained on business knowledge from documents, websites, and manual content.
+Beta SaaS platform for building deployable AI support agents trained on business knowledge from documents, websites, and manual input.
 
-**Highlights**
+**Business value:** Converts fragmented company knowledge into a deployable customer-support intelligence layer.
 
-- Document and web ingestion
-- Chunking and embedding generation
-- Vector retrieval and context assembly
-- Grounded response generation
-- Public embeddable chatbot widget
-- API/tool integration with natural-language commands
-- Slack and Discord channel integration
+**Technical ownership**
+- Architected the backend LLM pipeline: ingestion, chunking, embeddings, vector retrieval, context assembly, and grounded response generation.
+- Built a public widget deployment flow generating embeddable chatbot URLs for customer websites.
+- Implemented configurable tool-calling so agents can execute registered external APIs from natural-language commands.
+- Designed the agent runtime for retrieval, tool selection, fallback handling, and Slack/Discord integration.
 
-**Tech Stack:** Python, FastAPI, LLMs, RAG, Embeddings, Vector Search, Tool Calling, API Integrations, PostgreSQL, Redis, Docker
-
----
+`Python` `FastAPI` `RAG` `Embeddings` `Vector Search` `Tool Calling` `PostgreSQL` `Redis` `Docker`
 
 ### LLM-Powered HRMS Conversational Agent
 
-A conversational AI agent for HRMS workflows including leave applications, leave balance checks, employee lookup, and policy queries.
+Conversational AI agent automating HRMS workflows such as leave applications, leave balance checks, employee lookup, and policy queries.
 
-**Highlights**
+**Business value:** Reduces repetitive HR service workload through secure, tool-enabled conversational automation.
 
-- LangChain and LangGraph-based agent workflows
-- Tool-calling for HR task execution
-- RAG-based HR policy search
-- FastAPI backend integration
-- Memory-enabled multi-turn conversation
+**Technical ownership**
+- Built agent workflows with **LangChain** and **LangGraph** for planning, tool calling, and task execution.
+- Designed custom tools for leave management, employee data access, and policy search through a FastAPI backend.
+- Built a RAG pipeline for contextually accurate HR policy answers.
+- Added multi-turn conversational memory for more natural workflow completion.
 
-**Tech Stack:** LangChain, LangGraph, LangSmith, RAG, Vector Search, Python, FastAPI
-
----
+`LangChain` `LangGraph` `LangSmith` `RAG` `Vector Search` `Python` `FastAPI`
 
 ### Intelligent Multi-Modal Video Analytics and Surveillance Platform
 
-A real-time video analytics platform integrating vehicle detection, ANPR, traffic flow analytics, pedestrian tracking, parking detection, and violence recognition.
+Real-time video analytics platform unifying vehicle detection, ANPR, traffic analysis, pedestrian tracking, parking detection, and violence recognition.
 
-**Highlights**
+**Business value:** Turns raw surveillance feeds into searchable, actionable operational intelligence.
 
-- Vehicle detection and tracking
-- ANPR
-- Traffic flow analysis
-- Pedestrian tracking and re-identification
-- Parking detection
-- Fight and violence recognition
-- Visual Event Query Assistant using RAG
-- High-throughput inference using NVIDIA Triton
+**Technical ownership**
+- Trained and optimized YOLO-family and action recognition models.
+- Deployed optimized inference pipelines through **ONNX**, **TensorRT**, and **NVIDIA Triton**.
+- Built scalable backend services with **FastAPI**, **Redis**, **Celery**, and **PostgreSQL/MongoDB**.
+- Implemented multi-camera tracking and re-identification for cross-stream identity consistency.
+- Built a Visual Event Query Assistant with RAG for natural-language querying of events and timelines.
 
-**Tech Stack:** Python, PyTorch, TensorFlow, YOLO, ONNX, TensorRT, Triton, Redis, FastAPI, Celery, PostgreSQL, MongoDB, Docker, OpenCV
+`Python` `PyTorch` `TensorFlow` `YOLO` `ONNX` `TensorRT` `Triton` `Redis` `FastAPI` `Celery` `PostgreSQL` `MongoDB` `Docker` `OpenCV`
 
 ---
 
-## GitHub Activity
+## Publications and Research
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-Production%20Ready-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Real%20Time-00A86B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-RAG%20%7C%20Agents-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-FastAPI%20%7C%20Redis%20%7C%20Celery-EF4444?style=for-the-badge" />
-</p>
-
-I build production-grade AI systems, real-time video analytics platforms, LLM-powered applications, and scalable backend services.
+| Work | Focus |
+|---|---|
+| [Medication Correlation Analysis for Outbreak Prediction](https://cutt.ly/DwMdATs0) | Predicts disease outbreaks to support earlier preventive action |
+| [Automatic Monitoring of Social Dynamics During Major Incidents](https://cutt.ly/fwMdSLu7) | Analyzes COVID-19 discourse evolution and news sentiment |
+| [Analysis of Social Dynamics of COVID-19](https://cutt.ly/5wMdFnCW) | Tracks topic evolution and sentiment in COVID-19 news coverage |
+| Disease Outbreak Prediction Using LSTM and Facebook Prophet | Forecasts disease outbreaks using LSTM, Prophet, and statistical modeling |
 
 ---
 
-## Research and Publications
+## Education
 
-- Medication Correlation Analysis for Outbreak Prediction  
-  https://cutt.ly/DwMdATs0
-
-- Automatic Monitoring of Social Dynamics During Big Incidents  
-  https://cutt.ly/fwMdSLu7
-
-- Analysis of Social Dynamics of COVID-19  
-  https://cutt.ly/5wMdFnCW
-
-- Disease Outbreak Prediction Using LSTM and Facebook Prophet
+| Program | Institution | Timeline | Result | Focus |
+|---|---|---:|---:|---|
+| **B.Eng. in Computer Science and Engineering** | Comilla University | Jan 2016 – Dec 2021 | CGPA 3.34/4.00 | Software engineering, AI, ML, and systems development |
+| **Higher Secondary Certificate** | Motijheel Govt. Boys School and College | 2015 | GPA 4.83/5.00 | Science |
+| **Secondary School Certificate** | Chittagong Govt. High School | 2013 | GPA 5.00/5.00 | Science |
 
 ---
 
-## Programming Contests
+## Programming Contest Achievements
 
-- Chittagong University Programming Contest — 3rd Position
-- Britannia University Programming Contest — 9th Position
-- University of Asia Pacific Programming Contest — 12th Position
-- DUET Programming Contest — 44th Position
-- IUT Programming Contest — 53rd Position
-- SUST Programming Contest — 60th Position
-- MIST NCPC — 85th Position
-- BUET Programming Contest — 95th Position
-- ICPC Dhaka Regional — 126th Position
+<details>
+<summary><b>Competitive programming track record — 9 university contests</b></summary>
+
+<br/>
+
+| Contest | Result | Team |
+|---|---:|---|
+| Chittagong University Programming Contest | 3rd | Eng Stupids |
+| Britannia University Programming Contest | 9th | CoU Dauntless |
+| University of Asia Pacific Programming Contest | 12th | CoU Dauntless |
+| Dhaka University of Engineering & Technology | 44th | CoU Mirror Squad |
+| Islamic University of Technology Contest | 53rd | CoU Mirror Squad |
+| Shahjalal University of Science & Technology | 60th | CoU Mirror Squad |
+| MIST National Collegiate Programming Contest | 85th | CoU Dauntless |
+| BUET Programming Contest | 95th | CoU Mirror Squad |
+| ICPC Dhaka Regional | 126th | CoU Dauntless |
+
+</details>
 
 ---
 
-## Connect With Me
+## GitHub Analytics
 
-<p>
-  <a href="https://fahim-shahriar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-fahim--shahriar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p>
-  <a href="https://linkedin.com/in/qwertyz15">
-    <img src="https://img.shields.io/badge/LinkedIn-qwertyz15-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwertyz15&theme=github_dark" width="100%" alt="GitHub profile details"/>
 
-<p>
-  <a href="mailto:imnirobs15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-imnirobs15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwertyz15&theme=github_dark" width="32%" alt="Repositories per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qwertyz15&theme=github_dark" width="32%" alt="Most committed languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyz15&theme=github_dark" width="32%" alt="GitHub stats"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=qwertyz15&theme=github-dark-blue&hide_border=true&border_radius=8&card_width=900" width="100%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=qwertyz15&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=21600" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyz15&layout=compact&hide_border=true&theme=github_dark&cache_seconds=21600" width="40%" alt="Top languages"/>
+
+</div>
+
+---
+
+## Operating Philosophy
+
+> Build AI systems that are useful, observable, scalable, and aligned with real business workflows.
+
+```mermaid
+flowchart TD
+    A[Problem Definition] --> B[Data and System Assessment]
+    B --> C[Model or Agent Prototype]
+    C --> D[Evaluation and Benchmarking]
+    D --> E[API and Workflow Integration]
+    E --> F[Production Deployment]
+    F --> G[Monitoring and Continuous Improvement]
+```
+
+---
+
+## Let's Connect
+
+I am open to technical discussions, AI engineering collaborations, and production-focused ML system design conversations.
+
+<div align="center">
+
+<a href="https://github.com/qwertyz15">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/qwertyz15">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://fahim-shahriar.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Portfolio"/>
+</a>
+<a href="mailto:imnirobs15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1B1F3B,100:0D1117&height=110&section=footer)
+
+</div>
