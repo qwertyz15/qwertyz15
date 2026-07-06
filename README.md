@@ -247,24 +247,50 @@ Real-time video analytics platform unifying vehicle detection, ANPR, traffic ana
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwertyz15&theme=github_dark" width="100%" alt="GitHub profile details"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwertyz15&theme=github_dark" width="32%" alt="Repositories per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qwertyz15&theme=github_dark" width="32%" alt="Most committed languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyz15&theme=github_dark" width="32%" alt="GitHub stats"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=qwertyz15&theme=github-dark-blue&hide_border=true&border_radius=8&card_width=900" width="100%" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=qwertyz15&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=21600" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyz15&layout=compact&hide_border=true&theme=github_dark&cache_seconds=21600" width="40%" alt="Top languages"/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qwertyz15&theme=github_dark" 
+  width="100%" 
+  alt="GitHub profile summary"
+/>
 
 </div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qwertyz15&theme=github_dark" 
+        width="100%" 
+        alt="Top languages by repository"
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qwertyz15&theme=github_dark" 
+        width="100%" 
+        alt="Top languages by commit"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qwertyz15&theme=github_dark" 
+        width="100%" 
+        alt="GitHub statistics"
+      />
+    </td>
+    <td width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qwertyz15&theme=github_dark&utcOffset=6" 
+        width="100%" 
+        alt="Productive time"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
