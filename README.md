@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- Stable text fallback: even if the banner image fails, this heading still renders on GitHub -->
-<h1>Fahim Shahriar</h1>
-<h3>Senior Software Engineer · AI Systems · Computer Vision · LLM Infrastructure</h3>
+<!-- <h1>Fahim Shahriar</h1> -->
+<!-- <h3>Senior Software Engineer · AI Systems · Computer Vision · LLM Infrastructure</h3> -->
 
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1F3B,100:D4AF37&height=230&section=header&text=Fahim%20Shahriar&fontSize=56&fontColor=F5D76E&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Computer%20Vision%20%7C%20LLM%20Infrastructure&descAlignY=58&descSize=16&descColor=FFFFFF" 
